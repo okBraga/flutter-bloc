@@ -86,17 +86,6 @@ class CounterPage extends StatelessWidget {
                   ],
                 ),
               )
-              //ValueListenableBuilder<int>(
-              //   valueListenable: controller.counterVn,
-              //   builder: (_, counterValue, child) {
-              //     print('Alterando o COUNTER !!!!!!!!!!!!!!!!!');
-              //
-              //     return Text(
-              //       '$counterValue',
-              //       style: Theme.of(context).textTheme.headline4,
-              //     );
-              //   },
-              // ),
             ],
           ),
         ),
